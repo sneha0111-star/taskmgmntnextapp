@@ -33,7 +33,7 @@ A web-based application that helps users manage their tasks efficiently with sec
 ---
 
 # Clone the repository
-git clone https://github.com/your-username/task-management-system.git
+git clone https://github.com/sneha0111-star/taskmgmntnextapp.git
 
 
 # Install dependencies
